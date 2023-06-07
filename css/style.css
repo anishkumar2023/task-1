@@ -1,0 +1,35 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+/* span:hover{ */
+	/* color:red; */
+/* } */
+.accordion-button:not(.collapsed){
+	color:red !important;
+}
+img{
+	width:100%;
+	
+}
+.card-img-top{
+	height:100%;
+	width:100px;
+}
+.col-12 a{
+	text-decoration:none;
+	color:black;
+}
+p{
+ color:blue;
+}
+.col-sm-6{
+	text-align:center;
+}
+.card{
+	/* padding:20px; */
+}
+.card{
+	text-alig:center;
+}
